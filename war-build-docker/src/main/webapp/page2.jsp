@@ -5,5 +5,6 @@
 <body>
 	<h1>Page 2</h1>
 	<p>
-		Ceci est le contenu de la page 2
+		Ceci est le contenu de la page 2 
+		modif du 01/09 !
 </body>
