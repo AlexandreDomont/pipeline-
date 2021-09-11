@@ -6,5 +6,6 @@
 	<h1>Page 2</h1>
 	<p>
 		Ceci est le contenu de la page 2 
-		modif du 01/09 !
+		</br>
+		Modif du 01/09 par Alex !
 </body>
