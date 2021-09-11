@@ -1,20 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: nginx-deployment
+  name: pwar-deployment
 spec:
   selector:
     matchLabels:
-      app: nginx
+      app: pwar
   replicas: 2 # tells deployment to run 2 pods matching the template
   template:
     metadata:
       labels:
-        app: nginx
+        app: pwar
     spec:
       containers:
-      - name: nginx
-        # image: nginx:1.14.2
-        image: aldodockerhub/devops5
+      - name: pwar
+        image: aldodockerhub/pipeline
         ports:
-        - containerPort: 80
+        - containerPort: 8080

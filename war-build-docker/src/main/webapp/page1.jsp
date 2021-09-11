@@ -5,5 +5,5 @@
 <body>
 	<h1>Page 1</h1>
 	<p>
-		Ceci est le contenu de la page 1
+		Ceci est le contenu de la page 1 !
 </body>
