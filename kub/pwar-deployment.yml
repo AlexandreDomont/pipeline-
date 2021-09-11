@@ -15,5 +15,6 @@ spec:
       containers:
       - name: pwar
         image: aldodockerhub/pipeline:latest
+        imagePullPolicy: Always
         ports:
         - containerPort: 8080
