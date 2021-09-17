@@ -10,4 +10,6 @@
 		Modif du 01/09 par Alex !
 		</br>
 		AUTO ROLLOUT
+		</br>
+		COUCOU 2 DEVOPS
 </body>
