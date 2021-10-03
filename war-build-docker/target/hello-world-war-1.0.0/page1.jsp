@@ -6,5 +6,4 @@
 	<h1>Page 1</h1>
 	<p>
 		Ceci est le contenu de la page 1 !
-		et une modif du 3 oct 2021
 </body>
