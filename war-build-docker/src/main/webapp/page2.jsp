@@ -4,14 +4,11 @@
 </head>
 <body>
 	<h1>Page 2</h1>
-	<p>
+	</p>
 		Ceci est le contenu de la page 2 
-		</br>
-		Modif du 01/09 par Alex !
 		</br>
 		AUTO ROLLOUT
 		</br>
-		COUCOU 2 DEVOPS
-		</br>
-                17/09 1440
+                01/11 1429
+  	    <img src="https://static.education.francetv.fr/media/img/hd/img.gif" alt="DEVOPS"/>
 </body>
