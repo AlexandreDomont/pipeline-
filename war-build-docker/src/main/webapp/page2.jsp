@@ -9,9 +9,9 @@
 		</br>
 		AUTO ROLLOUT
 		</br>
-                01/11 1429
-  	    <img src="https://static.education.francetv.fr/media/img/hd/img.gif" alt="DEVOPS"/>
-	    </p>
-	    09/11/2021
+  	    	<img src="https://static.education.francetv.fr/media/img/hd/img.gif" alt="DEVOPS"/>
+	</p>
+	<p> 05/12/2021 </p>
+	   
 
 </body>
