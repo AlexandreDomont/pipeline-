@@ -11,7 +11,7 @@
 		</br>
   	    	<img src="https://static.education.francetv.fr/media/img/hd/img.gif" alt="DEVOPS"/>
 	</p>
-	<p> 07/10/22 DEVOPS !!!!!! </p>
+	<p> 07/10/22 DEVOPS v2 </p>
 	   
 
 </body>
